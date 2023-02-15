@@ -1,1 +1,1 @@
-Save you favourite movies.
+Save your favourite movies.
